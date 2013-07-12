@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+	<info organisation="org.jchern" module="simple-web-server-tests"/>
+	
+	<dependencies>
+		<dependency org="com.google.guava" name="guava" rev="14.0"/>
+    </dependencies>
+</ivy-module>

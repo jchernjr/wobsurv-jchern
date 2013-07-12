@@ -1,0 +1,9 @@
+<ivy-module version="2.0">
+	<info organisation="org.jchern" module="simple-web-server-tests"/>
+	
+	<dependencies>
+		<!-- jmockit should come before junit -->
+		<dependency org="com.googlecode.jmockit" name="jmockit" rev="1.2"/>
+		<dependency org="junit" name="junit" rev="4.11"/>
+    </dependencies>
+</ivy-module>
